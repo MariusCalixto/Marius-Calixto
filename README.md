@@ -1,4 +1,4 @@
-# 👋 Hola, soy Marius Calixto
+# 👋 Hola, soy Mario Calixto
 
 🎓 Estudiante / Desarrollador en formación  
 💻 Apasionado por la programación, la tecnología y la creación de proyectos  
